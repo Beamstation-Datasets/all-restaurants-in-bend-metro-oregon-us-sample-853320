@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining data for the Bend (Metro), Oregon metro region, encompassing Bend. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Bend (Metro), Oregon, US",
+  "export_job_id": "8026431d-b4be-4c67-b239-7f167ffd58df",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 853320,
+  "location_name": "Bend, OR",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-bend-metro-oregon-us-sample-853320",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/853320/beamstation_853320_restaurants-us-bendor_SAMPLE_DIST.csv",
+  "sample_pct": 8.42,
+  "sample_records": 59,
+  "sample_sha256": "3f0574d06f15654fb74597406142acae8bef11ba4635e05fa16bf1d5c24647d1",
+  "sample_size_bytes": 226205,
+  "total_records": 701,
+  "updated_at": "2026-04-07T12:48:22.518905+00:00"
+}
