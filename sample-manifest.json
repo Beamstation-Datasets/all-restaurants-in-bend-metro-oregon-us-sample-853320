@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8026431d-b4be-4c67-b239-7f167ffd58df",
+  "id_short": 853320,
+  "published_at": "2026-04-16T07:09:04Z",
+  "repo_name": "all-restaurants-in-bend-metro-oregon-us-sample-853320",
+  "sample_asset_name": "beamstation_853320_restaurants-us-bendor_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/853320/beamstation_853320_restaurants-us-bendor_SAMPLE_DIST.csv",
+  "sample_records": 59,
+  "sample_sha256": "3f0574d06f15654fb74597406142acae8bef11ba4635e05fa16bf1d5c24647d1",
+  "sample_size_bytes": 226205,
+  "total_records": 701
+}
