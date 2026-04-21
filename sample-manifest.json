@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4d4ca22d-4228-4cbb-ac8b-f0fb6fcd1718",
+  "export_job_id": "61d0d91d-3310-4357-b23f-7570ed0528b6",
   "id_short": 853320,
-  "published_at": "2026-04-18T07:08:34Z",
+  "published_at": "2026-04-21T19:54:01Z",
   "repo_name": "all-restaurants-in-bend-metro-oregon-us-sample-853320",
   "sample_asset_name": "beamstation_853320_restaurants-us-bendor_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/853320/beamstation_853320_restaurants-us-bendor_SAMPLE_DIST.csv",
-  "sample_records": 59,
-  "sample_sha256": "3f0574d06f15654fb74597406142acae8bef11ba4635e05fa16bf1d5c24647d1",
-  "sample_size_bytes": 226205,
-  "total_records": 593
+  "sample_records": 47,
+  "sample_sha256": "0ca3c21d887fa2d64d2cb7a45c11f9c7c06571db657807b6548906a44eda2e02",
+  "sample_size_bytes": 174389,
+  "total_records": 478
 }
